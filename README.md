@@ -1,16 +1,17 @@
-## Hi there 👋
+ 🚀 Srikanth Bathula | Senior IT Recruiter
+🔹 Senior Recruiter | Sapphirus Systems Pvt Ltd
+🔹 Hiring Top IT Talent – Full Stack, DevOps, Cloud, AI, and More!
+🔹 Passionate about connecting great talent with the right opportunities
 
-<!--
-**Sapphirusrecruitment/Sapphirusrecruitment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 What I Do?
+✔️ Sourcing & hiring skilled IT professionals
+✔️ Building strong talent pipelines
+✔️ Engaging with developers & tech communities
 
-Here are some ideas to get you started:
+📌 Actively Hiring For:
+🔹 .NET | Java | DevOps | Cloud Engineers | Data Scientists & more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Let’s Connect!
+🔗 LinkedIn
+📧 srikanth.b@sapphirus.in
+
