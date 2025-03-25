@@ -12,6 +12,6 @@
 🔹 .NET | Java | DevOps | Cloud Engineers | Data Scientists & more!
 
 📩 Let’s Connect!
-🔗 LinkedIn
+🔗 linkedin.com/in/srikanth-bathula-90293723b
 📧 srikanth.b@sapphirus.in
 
